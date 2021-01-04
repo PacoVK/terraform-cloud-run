@@ -2,11 +2,11 @@
 
 ### Overview ### 
 
-This repo is a sample for this [post]() about how to setup Terraform Cloud and GCP Cloud Run and the CI/CD integration.
+This repo is a sample for this [post](https://pascal-euhus.medium.com/ci-cd-for-cloud-run-with-terraform-f0a359d7f052) about how to setup Terraform Cloud and GCP Cloud Run and the CI/CD integration.
 
 ### Requirements ###
 
-This repo uses Terraform cloud, hence you must setup a workspace described [here]()
+This repo uses Terraform cloud, hence you must setup a workspace described [here](https://pascal-euhus.medium.com/ci-cd-for-cloud-run-with-terraform-f0a359d7f052)
 Example for CI/CD integration with GitHub Actions under `.github/workflows/build.yml`
 
 ### Terraform - Google Cloud ###
